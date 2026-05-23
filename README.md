@@ -1,10 +1,10 @@
-# Hi, I'm Harshita
+<h1>align="left">Hi, I'm Harshita</h1>
 A passionate Data Analytics enthusiast from India
 
-**🔭 I’m currently working on:**<br>
+<h2>**🔭 I’m currently working on:**<br></h2>
 Data Analytics projects using Python, SQL, Power BI, and Excel
 
-**🌱 I’m currently learning:**<br>
+<h2>**🌱 I’m currently learning:**<br></h2>
 Machine Learning, Advanced SQL, Power BI, and Full-Stack Development
 
 **👯 I’m looking to collaborate on:**<br>
