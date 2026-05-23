@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Harshita</h1>
-<h3 align="center">A passionate Data Analytics enthusiast from India</h3>
+#Hi, I'm Harshita
+#A passionate Data Analytics enthusiast from India
 
 - 🔭 I’m currently working on **Data Analytics projects using Python, SQL, Power BI, and Excel**
 
@@ -28,4 +28,4 @@
 - Data-Analytics-Bootcamp
 - Assesment_realproject
 - Netflix_Dashboard
-- ICP Prospecting Project
+- Retail_Sales_DashboardRetail_Sales_Dashboard
