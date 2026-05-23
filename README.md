@@ -25,7 +25,7 @@
 
 <br>
 # 🚀 Featured Projects:<br>
-- IPL Data Analysis Dashboard (Python + Power BI)
+- Data-Analytics-Bootcamp
 - Data Analytics Projects
 - Inventory Management System (HTML, CSS, PHP, MySQL)
 - ICP Prospecting Project
