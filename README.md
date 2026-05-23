@@ -1,28 +1,28 @@
-<h2 align="left">Hi, I'm Harshita</h2>
+<h1 align="left">Hi, I'm Harshita</h1>
 A passionate Data Analytics enthusiast from India
 
 <h3>🔭 I’m currently working on:<br></h3>
 Data Analytics projects using Python, SQL, Power BI, and Excel
 
-<h2>🌱 I’m currently learning:<br></h3>
+<h3>🌱 I’m currently learning:<br></h3>
 Machine Learning, Advanced SQL, Power BI, and Full-Stack Development
 
-**👯 I’m looking to collaborate on:**<br>
+<h3>👯 I’m looking to collaborate on:<br></h3>
 Data Analytics and Machine Learning projects
 
-**🤝 I’m looking for help with:**<br>
+<h3>🤝 I’m looking for help with:<br></h3>
 Machine Learning and advanced Data Science concepts
 
-**💬 Ask me about:**<br>
+<h3>💬 Ask me about:<br></h3>
 Python, SQL, Power BI, Data Visualization, EDA
 
-**📫 How to reach me:**<br>
+<h3>📫 How to reach me:<br></h3>
 harshitagarg247@gmail.com
 
-**⚡Fun fact:**<br>
+<h3>⚡Fun fact:<br></h3>
 I enjoy turning raw data into meaningful insights and interactive dashboards.
 
-**🚀 Featured Projects:**<br>
+<h3>🚀 Featured Projects:<br></h3>
 - Data-Analytics-Bootcamp
 - Assesment_realproject
 - Netflix_Dashboard
