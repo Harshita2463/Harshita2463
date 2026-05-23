@@ -1,13 +1,14 @@
 # Hi, I'm Harshita
 ## A passionate Data Analytics enthusiast from India
 
-## 🔭 I’m currently working on **Data Analytics projects using Python, SQL, Power BI, and Excel**
-## 🌱 I’m currently learning **Machine Learning, Advanced SQL, Power BI, and Full-Stack Development**
-## 👯 I’m looking to collaborate on **Data Analytics and Machine Learning projects**
-## 🤝 I’m looking for help with **Machine Learning and advanced Data Science concepts**
-## 💬 Ask me about **Python, SQL, Power BI, Data Visualization, EDA**
-## 📫 How to reach me **harshitagarg247@gmail.com**
-## ⚡ Fun fact **I enjoy turning raw data into meaningful insights and interactive dashboards.**
+# 
+🔭 I’m currently working on **Data Analytics projects using Python, SQL, Power BI, and Excel**<br>
+🌱 I’m currently learning **Machine Learning, Advanced SQL, Power BI, and Full-Stack Development**<br>
+👯 I’m looking to collaborate on **Data Analytics and Machine Learning projects**<br>
+🤝 I’m looking for help with **Machine Learning and advanced Data Science concepts**<br>
+💬 Ask me about **Python, SQL, Power BI, Data Visualization, EDA**<br>
+📫 How to reach me **harshitagarg247@gmail.com**<br>
+⚡ Fun fact **I enjoy turning raw data into meaningful insights and interactive dashboards.**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
