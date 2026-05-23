@@ -3,17 +3,17 @@ A passionate Data Analytics enthusiast from India
 
 **🔭 I’m currently working on:**<br>
 Data Analytics projects using Python, SQL, Power BI, and Excel<br>
-**🌱 I’m currently learning**
+**🌱 I’m currently learning**<br>
 Machine Learning, Advanced SQL, Power BI, and Full-Stack Development<br>
-**👯 I’m looking to collaborate on**
+**👯 I’m looking to collaborate on**<br>
 Data Analytics and Machine Learning projects<br>
-**🤝 I’m looking for help with**
+**🤝 I’m looking for help with**<br>
 Machine Learning and advanced Data Science concepts<br>
-**💬 Ask me about**
+**💬 Ask me about**<br>
 Python, SQL, Power BI, Data Visualization, EDA<br>
-**📫 How to reach me**
+**📫 How to reach me**<br>
 harshitagarg247@gmail.com<br>
-**⚡Fun fact**
+**⚡Fun fact**<br>
 I enjoy turning raw data into meaningful insights and interactive dashboards.<br>
 
 <h3 align="left">Connect with me:</h3>
