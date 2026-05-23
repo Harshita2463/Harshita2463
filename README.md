@@ -27,5 +27,5 @@
 # 🚀 Featured Projects:<br>
 - Data-Analytics-Bootcamp
 - Assesment_realproject
-- Inventory Management System (HTML, CSS, PHP, MySQL)
+- Netflix_Dashboard
 - ICP Prospecting Project
